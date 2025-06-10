@@ -1,4 +1,4 @@
-Netbook Project is a modern, responsive website built using HTML, CSS, and Bootstrap 5. 
+Netbook project is a modern, responsive website built using HTML, CSS, and Bootstrap 5. 
 It features a clean layout, mobile-friendly design, and reusable UI components,
 perfect for learning and practicing Bootstrap-based web development.
 
